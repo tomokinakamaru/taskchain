@@ -1,4 +1,4 @@
-package com.github.tomokinakamaru.tasque;
+package com.github.tomokinakamaru.taskchain;
 
 import java.util.Date;
 

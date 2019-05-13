@@ -1,4 +1,4 @@
-package com.github.tomokinakamaru.tasque;
+package com.github.tomokinakamaru.taskchain;
 
 final class SleepThread extends Thread {
 

@@ -1,6 +1,6 @@
-import com.github.tomokinakamaru.tasque.SeedTask;
-import com.github.tomokinakamaru.tasque.Task;
-import com.github.tomokinakamaru.tasque.TaskChainException;
+import com.github.tomokinakamaru.taskchain.SeedTask;
+import com.github.tomokinakamaru.taskchain.Task;
+import com.github.tomokinakamaru.taskchain.TaskChainException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
