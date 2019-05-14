@@ -19,7 +19,7 @@ public abstract class Task {
     executor.submit(task);
   }
 
-  void run() {
+  final void run() {
     runMainWithTimeConstraint();
     executor.onTaskEnd(this);
   }
