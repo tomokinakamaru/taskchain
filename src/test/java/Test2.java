@@ -1,11 +1,9 @@
 import com.github.tomokinakamaru.taskchain.MultiStepTask;
 import com.github.tomokinakamaru.taskchain.SeedTask;
-import com.github.tomokinakamaru.taskchain.Task;
 import com.github.tomokinakamaru.taskchain.TaskChainException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 import org.junit.jupiter.api.Test;
 
 final class Test2 {
