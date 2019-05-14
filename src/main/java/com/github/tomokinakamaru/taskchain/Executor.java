@@ -12,7 +12,7 @@ final class Executor {
 
   private final Queue<Task> waitingTasks = new LinkedList<>();
 
-  private final Set<Task> activeTasks = new HashSet<>();
+  private final List<Task> activeTasks = new ArrayList<>();
 
   private final ReentrantLock lock = new ReentrantLock(true);
 
